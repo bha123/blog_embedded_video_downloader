@@ -7,7 +7,7 @@ It was initially developed inorder to download videos from a blog called "http:/
 I hope other who are looking to download embedded videos from either websites / blogs can take advantage of this code. 
 
 
-Code Walk Through:
+### Code Walk Through:
 
 The code will look for a text file which contains links pointing to the pages where you have to download vidoes. 
 I have another code to download all the links of a blog. Which I will share in this repo soon. For now have the links of webpages/sites in the 
@@ -32,7 +32,7 @@ Once it is done it will state "Download Completed" statment.
 
 It is written in a day and has got lot of room for improvment . Feel free to modify it and share it. 
 
-Running the commands:
+### Running the commands:
 
 1. Make sure you have the Download_href_links.txt file in the same location where you have the file. Install python2.7 (https://www.python.org/downloads/release/python-2713/) in the system in order to run the file 
 
